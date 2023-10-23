@@ -47,6 +47,7 @@ public class Aplicacion {
 		else if (rol.equalsIgnoreCase("empleado")){
 			InterfazEmpleado interfazUsada = new InterfazEmpleado();
 			interfazUsada.mostrarOpciones(usuario);
+			//vuhid
 			
 		}
 		else {
