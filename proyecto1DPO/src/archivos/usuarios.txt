@@ -1,0 +1,4 @@
+usuario1,contrasena1,administradorGlobal
+usuario2,contrasena2,cliente
+usuario3,contrasena3,empleadoEntregas
+usuario4,contrasena4,empleadoRevision
