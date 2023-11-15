@@ -1,0 +1,3 @@
+usuario2,contrasena2,AdminLocal,Usuario2 Apellido2,Sede2
+joaco1,lolol1,AdminLocal,Joaquin Mondragon,Wonderland
+andresito1,passwordcharry,AdminLocal,Andres Charry,SD

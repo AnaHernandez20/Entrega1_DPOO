@@ -1,0 +1,3 @@
+1122334455,Colombia,31/10/24,https://www.elespectador.com/resizer/tHi2hvrP4ygY8wfLqR9zx78y904=/525x350/filters:quality(60):format(jpeg)/arc-anglerfish-arc2-prod-elespectador.s3.amazonaws.com/public/BXJQKVWE6FDJHIXJFSYOFR4754.jpg
+9988776655,Argentina,06/07/24,https://www.motor.com.co/__export/1672931973768/sites/motor/img/2022/12/19/6243c0c4d9b17_1.jpeg_172596871.jpeg
+1928374655,Colombia,13/10/27,https://www.canal26.com/media/image/2023/05/23/544216.jpg?s=1&a=352695

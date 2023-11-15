@@ -1,0 +1,5 @@
+Grande,PLK897,Audi,2009,Blanco,Automatico,5,false,LIMPIEZA,14/11/23,Sede1
+Deportivo,ETR534,Audi,2020,Blanco,Manual,3,false,DISPONIBLE,14/11/24,Sede2
+Lujoso,OPI789,Kia,2013,Azul,Automatico,4,false,MANTENIMIENTO,14/11/25,Sede3
+Rapido,XDD123,Ford,2008,Azul,Automatico,6,false,LIMPIEZA,29/11/23,Sede1
+Deportivo,CCC100,Kia,2007,Rojo,Manual,4,false,LIMPIEZA,12/11/23,Sede3

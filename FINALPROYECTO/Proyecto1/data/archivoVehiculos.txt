@@ -1,0 +1,3 @@
+Lujoso,DDD100,Mercedes,2008,Azul,Manual,5,false
+Grande,DER123,Audi,2009,Blanco,Automatica,5,false
+Rapido,RFA216,Chevrolet,2010,Negro,Manual,10,false

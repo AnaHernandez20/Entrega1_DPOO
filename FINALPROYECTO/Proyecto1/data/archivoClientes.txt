@@ -1,0 +1,3 @@
+usuario1,contrasena1,Cliente,Usuario1 Apellido1,3118857825,usuario1@gmail.com,08/08/96,123456789,1122334455
+usuario5,contrasena5,Cliente,Usuario5 Apellido5,31242492917,usuario5@gmail.com,09/09/99,987654321,9988776655
+usuario6,contrasena6,Cliente,Usuario6 Apellido6,3163945152,usuario6@gmail.com,01/02/97,129834765,1928374655

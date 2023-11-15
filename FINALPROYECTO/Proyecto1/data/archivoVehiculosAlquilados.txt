@@ -1,0 +1,3 @@
+Deportivo,BZD219,Kia,2007,Rojo,Manual,4,true,usuario1,20/11/23,Sede1
+Lujoso,AED345,Mercedes,2008,Azul,Manual,5,true,usuario2,30/12/23,Sede1
+Rapido,RFA212,Chevrolet,2010,Negro,Manual,10,true,usuario3,15/11/23,Sede2

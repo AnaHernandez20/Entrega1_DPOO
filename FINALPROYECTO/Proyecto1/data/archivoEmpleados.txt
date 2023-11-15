@@ -1,0 +1,3 @@
+usuario3,contrasena3,Empleado,Usuario3 Apellido3,Sede1
+usuario7,contrasena7,Empleado,Usuario7 Apellido7,Sede3
+usuario8,contrasena8,Empleado,Usuario8 Apellido8,Sede2

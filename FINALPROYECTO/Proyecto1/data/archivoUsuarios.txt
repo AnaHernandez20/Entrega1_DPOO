@@ -1,0 +1,10 @@
+usuario2;contrasena2;AdminLocal;Usuario2 Apellido2
+usuario3;contrasena3;Empleado;Usuario3 Apellido3
+usuario7;contrasena7;Empleado;Usuario7 Apellido7
+usuario8;contrasena8;Empleado;Usuario8 Apellido8
+usuario4;contrasena4;AdminGeneral;Usuario4 Apellido4
+usuario1;contrasena1;Cliente;Usuario1 Apellido1
+usuario5;contrasena5;Cliente;Usuario5 Apellido5
+usuario6;contrasena6;Cliente;Usuario6 Apellido6
+joaco1;lolol1;AdminLocal;Joaquin Mondragon
+andresito1;passwordcharry;AdminLocal;Andres Charry
